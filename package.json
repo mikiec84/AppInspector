@@ -50,7 +50,7 @@
         "lintroller"                : "~2.3.5-b",
         "load-grunt-config"         : "~0.7.1",
         "load-grunt-tasks"          : "~0.4.0",
-        "lodash"                    : "~2.4.1",
+        "lodash"                    : "~4.17.19",
         "time-grunt"                : "~0.2.9"
     },
     "optionalDependencies" : {
